@@ -8,7 +8,6 @@ My professional experience is focused on building scalable, intelligent systems.
 * 🎓 Studying **MS in Computer Science** at Northeastern University, Boston.
 * 💻 Previously a **Software Engineer** at Jeavio, building LLM-powered platforms.
 * 🧠 Passionate about **Generative AI**, vector databases, and system design.
-* 📫 How to reach me: **jenilmahy25@gmail.com**
 
 ---
 
